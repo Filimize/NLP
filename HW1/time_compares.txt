@@ -1,0 +1,4 @@
+Performance Comparison:
+NLTK: Time: 1.3296s, Total Words: 12637, Unique Words: 2630, Part Of Speech Tags: 12637
+TextBlob: Time: 1.0450s, Words: 12637, Unique Words: 2630, Part Of Speech Tags: 12637
+spaCy: Time: 2.2383s, Words: 13113, Unique Words: 2624, Part Of Speech Tags: 13113
